@@ -18,6 +18,7 @@ Octopress with compact theme, deployment see: Development
 - Standard K120 keyboard
 - 15+ years Altec Lansing speaker (forget the name)
 - Windows 8.1
+- Xubuntu 16.04
 
 ## Development
 
