@@ -59,6 +59,7 @@ Octopress with compact theme, deployment see: Development
 - Bitcoin Core for wallet
 - KeePass for password management
 - Veracrypt for file encryption
+- Yeelight for automated lighting
 
 ## Film & Video
 
@@ -66,3 +67,8 @@ Octopress with compact theme, deployment see: Development
 - Tripod
 - Lightstand
 - Redhead
+
+## Notetaking
+
+- OneNote
+- Standard Note
