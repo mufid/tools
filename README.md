@@ -51,14 +51,14 @@ Octopress with compact theme, deployment see: Development
 
 ## Etc
 
-- Dropbox, Google Drive, OneDrive, iCloud Drive for cloud storage.
-- Mirascreen for projecting from iPhone
-- Hygrometer and Thermometer for noticing current RH and temperature.
-- Raspberry PI for stuff
-- Webcam for stuff
 - Bitcoin Core for wallet
+- Dropbox, Google Drive, OneDrive, iCloud Drive for cloud storage.
+- Hygrometer and Thermometer for noticing current RH and temperature.
+- Mirascreen for projecting from iPhone
 - KeePass for password management
+- Raspberry PI for stuff
 - Veracrypt for file encryption
+- Webcam for stuff
 - Yeelight for automated lighting
 
 ## Film & Video
@@ -70,5 +70,5 @@ Octopress with compact theme, deployment see: Development
 
 ## Notetaking
 
-- OneNote
-- Standard Note
+- OneNote for general
+- Standard Note for secure/sensitive information
