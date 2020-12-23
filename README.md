@@ -8,17 +8,17 @@ Octopress with compact theme, deployment see: Development
 
 ## Desktop
 
-- i3/4170
+- Haswell 4770
 - AMD RADEON RX480
 - Asus H97+
 - 8x2 GB RAM
 - 2x3TB, RAID 1
 - Lancool case
-- LG Infinity Display Monitor, 24" FHD
+- Dell Ultrasharp FHD 24"
 - Standard K120 keyboard
-- 15+ years Altec Lansing speaker (forget the name)
-- Windows 8.1
-- Xubuntu 16.04
+- Old Altec Lansing speaker
+- Windows 10
+- Xubuntu 20.04
 
 ## Development
 
@@ -43,30 +43,30 @@ Octopress with compact theme, deployment see: Development
 
 **General Ops Stuff:**
 
-- tmux with custom script for internet radio
-- Chef for deployment
 - Capistrano for simple stuff
+- Conemu for terminal in Windows
+- tmux with custom script for internet radio
 - Travis and CodeShip for CI/CD. I use that to deploy my blog automatically, too.
 - VirtualBox with always-latest XFCE
 
 ## Etc
 
 - Bitcoin Core for wallet
-- Dropbox, Google Drive, OneDrive, iCloud Drive for cloud storage.
 - Hygrometer and Thermometer for noticing current RH and temperature.
 - Mirascreen for projecting from iPhone
 - KeePass for password management
 - Raspberry PI for stuff
+- ShareX for screenshot and simple screenrecording
 - Veracrypt for file encryption
 - Webcam for stuff
-- Yeelight for automated lighting
 
 ## Film & Video
 
+- Blue Yeti for video conference & voice over
 - [DIY Fig Rig](https://www.youtube.com/watch?v=qT72hoYxESI&t=189s)
-- Tripod
 - Lightstand
 - Redhead
+- Tripod
 
 ## Notetaking
 
