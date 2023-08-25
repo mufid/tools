@@ -11,14 +11,14 @@ Octopress with compact theme, deployment see: Development
 - Haswell 4770
 - AMD RADEON RX480
 - Asus H97+
-- 8x2 GB RAM
+- 8x2 GB RAM + 8x2 GB RAM
 - 2x3TB, RAID 1
 - Lancool case
 - Dell Ultrasharp FHD 24"
 - Standard K120 keyboard
 - Old Altec Lansing speaker
 - Windows 10
-- Xubuntu 20.04
+- Xubuntu 22.04
 
 ## Development
 
@@ -52,10 +52,9 @@ Octopress with compact theme, deployment see: Development
 ## Etc
 
 - Bitcoin Core for wallet
-- Hygrometer and Thermometer for noticing current RH and temperature.
-- Mirascreen for projecting from iPhone
+- Intel NUCi2WSHiT for Proxmox VE
 - KeePass for password management
-- Raspberry PI for stuff
+- Qingping Air Quality Monitor for those sensors data: PM2.5, CO2, TVOC, RH, Temperature.
 - ShareX for screenshot and simple screenrecording
 - Veracrypt for file encryption
 - Webcam for stuff
